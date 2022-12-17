@@ -36,5 +36,7 @@ model_name.py: Model used
 ## Final Result
 
 LightGBM gave the best result.
+
 Train Set: Root mean squared error: 600.76, Mean absolute error: 399.28, R Squared: 0.982
+
 Test Set: Root mean squared error: 1428.74, Mean absolute error: 723.85, R Squared: 0.907
